@@ -1,0 +1,29 @@
+{
+  "OLS": {
+    "parameters": {
+      "C0": 73.14766885903079,
+      "kg": 0.482667979010155,
+      "ka": 0.2,
+      "ke": 0.035408187770762704
+    },
+    "objective": 0.05067767854786875,
+    "success": true,
+    "message": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+    "RMSE": 0.22511703300254457,
+    "R2_unweighted": 0.9144668500858767
+  },
+  "WLS": {
+    "parameters": {
+      "C0": 19.92238503850131,
+      "kg": 0.5,
+      "ka": 0.04108182169723576,
+      "ke": 0.005141859749906148
+    },
+    "objective": 0.30623041257475225,
+    "success": true,
+    "message": "CONVERGENCE: NORM OF PROJECTED GRADIENT <= PGTOL",
+    "RMSE": 0.7454034062841808,
+    "R2_unweighted": 0.062221007721527055,
+    "R2_weighted": 0.1978165662414203
+  }
+}

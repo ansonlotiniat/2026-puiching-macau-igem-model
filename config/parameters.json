@@ -1,0 +1,35 @@
+{
+  "daily_CFU": 10000000000.0,
+  "arrival_fractions": {
+    "uncoated": 0.01,
+    "enteric": 0.5
+  },
+  "cell_loss_per_day": 0.14,
+  "lumen_mL": 400,
+  "gut_removal_per_h": 1,
+  "CFU_per_mL_per_OD": 800000000.0,
+  "butyrate_molar_mass_g_mol": 88.11,
+  "gut_target_mM": 2.6,
+  "serum_target_ug_mL": 0.1,
+  "pk_sets": {
+    "OLS_1013": {
+      "C0": 73.77,
+      "kg": 0.4885,
+      "ka": 0.2,
+      "ke": 0.0354
+    },
+    "WLS_1013": {
+      "C0": 5.31,
+      "kg": 0.5,
+      "ka": 0.2,
+      "ke": 0.0051
+    },
+    "OLS_legacy_wiki": {
+      "kg": 0.0006,
+      "ka": 0.6442,
+      "ke": 0.0354
+    }
+  },
+  "blood_mL": 5000,
+  "pk_gut_mL": 1000
+}

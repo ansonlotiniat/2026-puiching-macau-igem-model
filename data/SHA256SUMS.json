@@ -1,0 +1,10 @@
+{
+  "data/literature/part_i_source.json": "77d7ebf5170eca90e30d753b92357f3c9cf4fac18b6865b3825b4da7734cbf0e",
+  "data/literature/serum_nab.csv": "2df6c30a0b2404b1d9a39695ae19c737684238b493716a983b8e3f8aa44218c8",
+  "data/literature/wang_culture.csv": "f2d86037779da4839891356d15449598b50f9c305de9099aa62bb07249f99eff",
+  "data/processed/paired_rates.csv": "ee5584d44192502cc2c620a58409be1a5402f43f9d9b7bd99ddf67becd21ef38",
+  "data/raw/hplc_927.xlsx": "78e82ce71fd4a20c1cc4e29a4c7aa5f5ca47d0a41f0ed56d3bca66b481d147ae",
+  "data/raw/od_0h.jpg": "6ad6eefd01dcf1813a6cf8dec20fb2e5399c83357a081647b67f06b2e87a5090",
+  "data/raw/od_24h.jpg": "5c488e156794542c0467ab5ac4a01257426462b9e63abfe6f6d18267bcc20e08",
+  "data/raw/od_readings.csv": "71910c71005241a4e19d76ff07de4fe1172342ab832900b2443d0e7f919225d7"
+}
